@@ -1,6 +1,6 @@
-import HeroIconOne from "../assets/images/hero-icon1.png";
-import HeroIconTwo from "../assets/images/hero-icon2.png";
-import HeroIconTree from "../assets/images/hero-icon3.png";
+import HeroIconOne from "../assets/images/hero-icon-one.png";
+import HeroIconTwo from "../assets/images/hero-icon-two.png";
+import HeroIconTree from "../assets/images/hero-icon-thre.png";
 import { ReactComponent as ServiceIconOne } from "../assets/images/service-icon-one.svg";
 import { ReactComponent as ServiceIconTwo } from "../assets/images/service-icon-two.svg";
 import { ReactComponent as ServiceIconTree } from "../assets/images/service-icon-three.svg";
